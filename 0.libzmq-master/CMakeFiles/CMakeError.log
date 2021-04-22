@@ -1,0 +1,1000 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags:  
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -c 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags:  
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -c 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+系统找不到指定的文件。
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags:  
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -c 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags:  
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -c 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+系统找不到指定的文件。
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags:  
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -c 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags:  
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -c 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+系统找不到指定的文件。
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags:  
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -c 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags:  
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -c 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+系统找不到指定的文件。
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/Users/Administrator/Desktop/libzmq-master/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_56633\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29910\bin\HostX64\x64\nmake.exe"  -f CMakeFiles\cmTC_56633.dir\build.make /nologo -L                  CMakeFiles\cmTC_56633.dir\build
+Building C object CMakeFiles/cmTC_56633.dir/CMakeCCompilerABI.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_56633.dir\CMakeCCompilerABI.c.obj.d --working-dir=C:\Users\Administrator\Desktop\libzmq-master\CMakeFiles\CMakeTmp --filter-prefix="注意: 包含文件:  " -- C:\PROGRA~2\MICROS~3\2019\PROFES~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\nm1922.tmp
+CMakeCCompilerABI.c
+?鈷? 鍖呭惈鏂囦欢:  C:\Program Files\CMake\share\cmake-3.20\Modules\CMakeCompilerABI.h
+Linking C executable cmTC_56633.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_56633.dir --rc=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests -- C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe /nologo @CMakeFiles\cmTC_56633.dir\objects1.rsp @C:\Users\ADMINI~1\AppData\Local\Temp\nm1A8A.tmp
+LINK Pass 1: command "C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe /nologo @CMakeFiles\cmTC_56633.dir\objects1.rsp /out:cmTC_56633.exe /implib:cmTC_56633.lib /pdb:C:\Users\Administrator\Desktop\libzmq-master\CMakeFiles\CMakeTmp\cmTC_56633.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_56633.dir/intermediate.manifest CMakeFiles\cmTC_56633.dir/manifest.res" failed (exit code 1) with the following output:
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /nologo: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /out:cmTC_56633.exe: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /implib:cmTC_56633.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /pdb:C:\Users\Administrator\Desktop\libzmq-master\CMakeFiles\CMakeTmp\cmTC_56633.pdb: Invalid argument
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /version:0.0: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /machine:x64: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /debug: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /INCREMENTAL: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /subsystem:console: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find kernel32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find user32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find gdi32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find winspool.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find shell32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find ole32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find oleaut32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find uuid.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find comdlg32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find advapi32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /MANIFEST: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /MANIFESTFILE:CMakeFiles\cmTC_56633.dir/intermediate.manifest: Invalid argument
+CMakeFiles\cmTC_56633.dir/manifest.res: file not recognized: File format not recognized
+NMAKE : fatal error U1077: “"C:\Program Files\CMake\bin\cmake.exe"”: 返回代码“0xffffffff”
+Stop.
+NMAKE : fatal error U1077: “"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29910\bin\HostX64\x64\nmake.exe"”: 返回代码“0x2”
+Stop.
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/Administrator/Desktop/libzmq-master/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_9da40\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29910\bin\HostX64\x64\nmake.exe"  -f CMakeFiles\cmTC_9da40.dir\build.make /nologo -L                  CMakeFiles\cmTC_9da40.dir\build
+Building C object CMakeFiles/cmTC_9da40.dir/testCCompiler.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_9da40.dir\testCCompiler.c.obj.d --working-dir=C:\Users\Administrator\Desktop\libzmq-master\CMakeFiles\CMakeTmp --filter-prefix="注意: 包含文件:  " -- C:\PROGRA~2\MICROS~3\2019\PROFES~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\nm1B35.tmp
+testCCompiler.c
+Linking C executable cmTC_9da40.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_9da40.dir --rc=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests -- C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe /nologo @CMakeFiles\cmTC_9da40.dir\objects1.rsp @C:\Users\ADMINI~1\AppData\Local\Temp\nm1B84.tmp
+LINK Pass 1: command "C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe /nologo @CMakeFiles\cmTC_9da40.dir\objects1.rsp /out:cmTC_9da40.exe /implib:cmTC_9da40.lib /pdb:C:\Users\Administrator\Desktop\libzmq-master\CMakeFiles\CMakeTmp\cmTC_9da40.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_9da40.dir/intermediate.manifest CMakeFiles\cmTC_9da40.dir/manifest.res" failed (exit code 1) with the following output:
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /nologo: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /out:cmTC_9da40.exe: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /implib:cmTC_9da40.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /pdb:C:\Users\Administrator\Desktop\libzmq-master\CMakeFiles\CMakeTmp\cmTC_9da40.pdb: Invalid argument
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /version:0.0: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /machine:x64: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /debug: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /INCREMENTAL: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /subsystem:console: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find kernel32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find user32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find gdi32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find winspool.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find shell32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find ole32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find oleaut32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find uuid.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find comdlg32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find advapi32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /MANIFEST: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /MANIFESTFILE:CMakeFiles\cmTC_9da40.dir/intermediate.manifest: Invalid argument
+CMakeFiles\cmTC_9da40.dir/manifest.res: file not recognized: File format not recognized
+NMAKE : fatal error U1077: “"C:\Program Files\CMake\bin\cmake.exe"”: 返回代码“0xffffffff”
+Stop.
+NMAKE : fatal error U1077: “"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29910\bin\HostX64\x64\nmake.exe"”: 返回代码“0x2”
+Stop.
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/VC/Tools/MSVC/14.28.29910/bin/Hostx64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+2
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.28.29914 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.28.29914.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+LINK : fatal error LNK1104: 无法打开文件“LIBCMT.lib”
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/VC/Tools/MSVC/14.28.29910/bin/Hostx64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+2
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.28.29914 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 14.28.29914.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+LINK : fatal error LNK1104: 无法打开文件“LIBCMT.lib”
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/Users/Administrator/Desktop/libzmq-master/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_364ad\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29910\bin\Hostx64\x64\nmake.exe"  -f CMakeFiles\cmTC_364ad.dir\build.make /nologo -L                  CMakeFiles\cmTC_364ad.dir\build
+Building C object CMakeFiles/cmTC_364ad.dir/CMakeCCompilerABI.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_364ad.dir\CMakeCCompilerABI.c.obj.d --working-dir=C:\Users\Administrator\Desktop\libzmq-master\CMakeFiles\CMakeTmp --filter-prefix="注意: 包含文件:  " -- C:\PROGRA~2\MICROS~3\2019\PROFES~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\nmC0A0.tmp
+CMakeCCompilerABI.c
+?鈷? 鍖呭惈鏂囦欢:  C:\Program Files\CMake\share\cmake-3.20\Modules\CMakeCompilerABI.h
+Linking C executable cmTC_364ad.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_364ad.dir --rc=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests -- C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe /nologo @CMakeFiles\cmTC_364ad.dir\objects1.rsp @C:\Users\ADMINI~1\AppData\Local\Temp\nmC1F9.tmp
+LINK Pass 1: command "C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe /nologo @CMakeFiles\cmTC_364ad.dir\objects1.rsp /out:cmTC_364ad.exe /implib:cmTC_364ad.lib /pdb:C:\Users\Administrator\Desktop\libzmq-master\CMakeFiles\CMakeTmp\cmTC_364ad.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_364ad.dir/intermediate.manifest CMakeFiles\cmTC_364ad.dir/manifest.res" failed (exit code 1) with the following output:
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /nologo: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /out:cmTC_364ad.exe: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /implib:cmTC_364ad.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /pdb:C:\Users\Administrator\Desktop\libzmq-master\CMakeFiles\CMakeTmp\cmTC_364ad.pdb: Invalid argument
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /version:0.0: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /machine:x64: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /debug: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /INCREMENTAL: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /subsystem:console: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find kernel32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find user32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find gdi32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find winspool.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find shell32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find ole32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find oleaut32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find uuid.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find comdlg32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find advapi32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /MANIFEST: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /MANIFESTFILE:CMakeFiles\cmTC_364ad.dir/intermediate.manifest: Invalid argument
+CMakeFiles\cmTC_364ad.dir/manifest.res: file not recognized: File format not recognized
+NMAKE : fatal error U1077: “"C:\Program Files\CMake\bin\cmake.exe"”: 返回代码“0xffffffff”
+Stop.
+NMAKE : fatal error U1077: “"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29910\bin\Hostx64\x64\nmake.exe"”: 返回代码“0x2”
+Stop.
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/Administrator/Desktop/libzmq-master/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_61f46\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29910\bin\Hostx64\x64\nmake.exe"  -f CMakeFiles\cmTC_61f46.dir\build.make /nologo -L                  CMakeFiles\cmTC_61f46.dir\build
+Building C object CMakeFiles/cmTC_61f46.dir/testCCompiler.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_61f46.dir\testCCompiler.c.obj.d --working-dir=C:\Users\Administrator\Desktop\libzmq-master\CMakeFiles\CMakeTmp --filter-prefix="注意: 包含文件:  " -- C:\PROGRA~2\MICROS~3\2019\PROFES~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\nmC294.tmp
+testCCompiler.c
+Linking C executable cmTC_61f46.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_61f46.dir --rc=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests -- C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe /nologo @CMakeFiles\cmTC_61f46.dir\objects1.rsp @C:\Users\ADMINI~1\AppData\Local\Temp\nmC303.tmp
+LINK Pass 1: command "C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe /nologo @CMakeFiles\cmTC_61f46.dir\objects1.rsp /out:cmTC_61f46.exe /implib:cmTC_61f46.lib /pdb:C:\Users\Administrator\Desktop\libzmq-master\CMakeFiles\CMakeTmp\cmTC_61f46.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_61f46.dir/intermediate.manifest CMakeFiles\cmTC_61f46.dir/manifest.res" failed (exit code 1) with the following output:
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /nologo: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /out:cmTC_61f46.exe: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /implib:cmTC_61f46.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /pdb:C:\Users\Administrator\Desktop\libzmq-master\CMakeFiles\CMakeTmp\cmTC_61f46.pdb: Invalid argument
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /version:0.0: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /machine:x64: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /debug: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /INCREMENTAL: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /subsystem:console: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find kernel32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find user32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find gdi32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find winspool.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find shell32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find ole32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find oleaut32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find uuid.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find comdlg32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find advapi32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /MANIFEST: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /MANIFESTFILE:CMakeFiles\cmTC_61f46.dir/intermediate.manifest: Invalid argument
+CMakeFiles\cmTC_61f46.dir/manifest.res: file not recognized: File format not recognized
+NMAKE : fatal error U1077: “"C:\Program Files\CMake\bin\cmake.exe"”: 返回代码“0xffffffff”
+Stop.
+NMAKE : fatal error U1077: “"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29910\bin\Hostx64\x64\nmake.exe"”: 返回代码“0x2”
+Stop.
+
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/Users/Administrator/Desktop/libzmq-master/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_719db\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29910\bin\HostX64\x64\nmake.exe"  -f CMakeFiles\cmTC_719db.dir\build.make /nologo -L                  CMakeFiles\cmTC_719db.dir\build
+Building C object CMakeFiles/cmTC_719db.dir/CMakeCCompilerABI.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_719db.dir\CMakeCCompilerABI.c.obj.d --working-dir=C:\Users\Administrator\Desktop\libzmq-master\CMakeFiles\CMakeTmp --filter-prefix="注意: 包含文件:  " -- C:\PROGRA~2\MICROS~3\2019\PROFES~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\nm2FFF.tmp
+CMakeCCompilerABI.c
+?鈷? 鍖呭惈鏂囦欢:  C:\Program Files\CMake\share\cmake-3.20\Modules\CMakeCompilerABI.h
+Linking C executable cmTC_719db.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_719db.dir --rc=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests -- C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe /nologo @CMakeFiles\cmTC_719db.dir\objects1.rsp @C:\Users\ADMINI~1\AppData\Local\Temp\nm304E.tmp
+LINK Pass 1: command "C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe /nologo @CMakeFiles\cmTC_719db.dir\objects1.rsp /out:cmTC_719db.exe /implib:cmTC_719db.lib /pdb:C:\Users\Administrator\Desktop\libzmq-master\CMakeFiles\CMakeTmp\cmTC_719db.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_719db.dir/intermediate.manifest CMakeFiles\cmTC_719db.dir/manifest.res" failed (exit code 1) with the following output:
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /nologo: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /out:cmTC_719db.exe: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /implib:cmTC_719db.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /pdb:C:\Users\Administrator\Desktop\libzmq-master\CMakeFiles\CMakeTmp\cmTC_719db.pdb: Invalid argument
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /version:0.0: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /machine:x64: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /debug: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /INCREMENTAL: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /subsystem:console: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find kernel32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find user32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find gdi32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find winspool.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find shell32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find ole32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find oleaut32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find uuid.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find comdlg32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find advapi32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /MANIFEST: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /MANIFESTFILE:CMakeFiles\cmTC_719db.dir/intermediate.manifest: Invalid argument
+CMakeFiles\cmTC_719db.dir/manifest.res: file not recognized: File format not recognized
+NMAKE : fatal error U1077: “"C:\Program Files\CMake\bin\cmake.exe"”: 返回代码“0xffffffff”
+Stop.
+NMAKE : fatal error U1077: “"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29910\bin\HostX64\x64\nmake.exe"”: 返回代码“0x2”
+Stop.
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/Administrator/Desktop/libzmq-master/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_4cc64\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29910\bin\HostX64\x64\nmake.exe"  -f CMakeFiles\cmTC_4cc64.dir\build.make /nologo -L                  CMakeFiles\cmTC_4cc64.dir\build
+Building C object CMakeFiles/cmTC_4cc64.dir/testCCompiler.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_4cc64.dir\testCCompiler.c.obj.d --working-dir=C:\Users\Administrator\Desktop\libzmq-master\CMakeFiles\CMakeTmp --filter-prefix="注意: 包含文件:  " -- C:\PROGRA~2\MICROS~3\2019\PROFES~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\nm30DA.tmp
+testCCompiler.c
+Linking C executable cmTC_4cc64.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_4cc64.dir --rc=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests -- C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe /nologo @CMakeFiles\cmTC_4cc64.dir\objects1.rsp @C:\Users\ADMINI~1\AppData\Local\Temp\nm3129.tmp
+LINK Pass 1: command "C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe /nologo @CMakeFiles\cmTC_4cc64.dir\objects1.rsp /out:cmTC_4cc64.exe /implib:cmTC_4cc64.lib /pdb:C:\Users\Administrator\Desktop\libzmq-master\CMakeFiles\CMakeTmp\cmTC_4cc64.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_4cc64.dir/intermediate.manifest CMakeFiles\cmTC_4cc64.dir/manifest.res" failed (exit code 1) with the following output:
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /nologo: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /out:cmTC_4cc64.exe: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /implib:cmTC_4cc64.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /pdb:C:\Users\Administrator\Desktop\libzmq-master\CMakeFiles\CMakeTmp\cmTC_4cc64.pdb: Invalid argument
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /version:0.0: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /machine:x64: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /debug: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /INCREMENTAL: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /subsystem:console: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find kernel32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find user32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find gdi32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find winspool.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find shell32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find ole32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find oleaut32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find uuid.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find comdlg32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find advapi32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /MANIFEST: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /MANIFESTFILE:CMakeFiles\cmTC_4cc64.dir/intermediate.manifest: Invalid argument
+CMakeFiles\cmTC_4cc64.dir/manifest.res: file not recognized: File format not recognized
+NMAKE : fatal error U1077: “"C:\Program Files\CMake\bin\cmake.exe"”: 返回代码“0xffffffff”
+Stop.
+NMAKE : fatal error U1077: “"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29910\bin\HostX64\x64\nmake.exe"”: 返回代码“0x2”
+Stop.
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/VC/Tools/MSVC/14.28.29910/bin/Hostx64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+2
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.28.29914 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.28.29914.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+LINK : fatal error LNK1104: 无法打开文件“LIBCMT.lib”
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/VC/Tools/MSVC/14.28.29910/bin/Hostx64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+2
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.28.29914 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 14.28.29914.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+LINK : fatal error LNK1104: 无法打开文件“LIBCMT.lib”
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/Users/Administrator/Desktop/libzmq-master/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_53124\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29910\bin\Hostx64\x64\nmake.exe"  -f CMakeFiles\cmTC_53124.dir\build.make /nologo -L                  CMakeFiles\cmTC_53124.dir\build
+Building C object CMakeFiles/cmTC_53124.dir/CMakeCCompilerABI.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_53124.dir\CMakeCCompilerABI.c.obj.d --working-dir=C:\Users\Administrator\Desktop\libzmq-master\CMakeFiles\CMakeTmp --filter-prefix="注意: 包含文件:  " -- C:\PROGRA~2\MICROS~3\2019\PROFES~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\nm7372.tmp
+CMakeCCompilerABI.c
+?鈷? 鍖呭惈鏂囦欢:  C:\Program Files\CMake\share\cmake-3.20\Modules\CMakeCompilerABI.h
+Linking C executable cmTC_53124.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_53124.dir --rc=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests -- C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe /nologo @CMakeFiles\cmTC_53124.dir\objects1.rsp @C:\Users\ADMINI~1\AppData\Local\Temp\nm73C1.tmp
+LINK Pass 1: command "C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe /nologo @CMakeFiles\cmTC_53124.dir\objects1.rsp /out:cmTC_53124.exe /implib:cmTC_53124.lib /pdb:C:\Users\Administrator\Desktop\libzmq-master\CMakeFiles\CMakeTmp\cmTC_53124.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_53124.dir/intermediate.manifest CMakeFiles\cmTC_53124.dir/manifest.res" failed (exit code 1) with the following output:
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /nologo: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /out:cmTC_53124.exe: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /implib:cmTC_53124.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /pdb:C:\Users\Administrator\Desktop\libzmq-master\CMakeFiles\CMakeTmp\cmTC_53124.pdb: Invalid argument
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /version:0.0: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /machine:x64: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /debug: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /INCREMENTAL: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /subsystem:console: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find kernel32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find user32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find gdi32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find winspool.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find shell32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find ole32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find oleaut32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find uuid.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find comdlg32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find advapi32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /MANIFEST: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /MANIFESTFILE:CMakeFiles\cmTC_53124.dir/intermediate.manifest: Invalid argument
+CMakeFiles\cmTC_53124.dir/manifest.res: file not recognized: File format not recognized
+NMAKE : fatal error U1077: “"C:\Program Files\CMake\bin\cmake.exe"”: 返回代码“0xffffffff”
+Stop.
+NMAKE : fatal error U1077: “"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29910\bin\Hostx64\x64\nmake.exe"”: 返回代码“0x2”
+Stop.
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/Administrator/Desktop/libzmq-master/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_fc003\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29910\bin\Hostx64\x64\nmake.exe"  -f CMakeFiles\cmTC_fc003.dir\build.make /nologo -L                  CMakeFiles\cmTC_fc003.dir\build
+Building C object CMakeFiles/cmTC_fc003.dir/testCCompiler.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_fc003.dir\testCCompiler.c.obj.d --working-dir=C:\Users\Administrator\Desktop\libzmq-master\CMakeFiles\CMakeTmp --filter-prefix="注意: 包含文件:  " -- C:\PROGRA~2\MICROS~3\2019\PROFES~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\nm744D.tmp
+testCCompiler.c
+Linking C executable cmTC_fc003.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_fc003.dir --rc=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests -- C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe /nologo @CMakeFiles\cmTC_fc003.dir\objects1.rsp @C:\Users\ADMINI~1\AppData\Local\Temp\nm748D.tmp
+LINK Pass 1: command "C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe /nologo @CMakeFiles\cmTC_fc003.dir\objects1.rsp /out:cmTC_fc003.exe /implib:cmTC_fc003.lib /pdb:C:\Users\Administrator\Desktop\libzmq-master\CMakeFiles\CMakeTmp\cmTC_fc003.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_fc003.dir/intermediate.manifest CMakeFiles\cmTC_fc003.dir/manifest.res" failed (exit code 1) with the following output:
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /nologo: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /out:cmTC_fc003.exe: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /implib:cmTC_fc003.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /pdb:C:\Users\Administrator\Desktop\libzmq-master\CMakeFiles\CMakeTmp\cmTC_fc003.pdb: Invalid argument
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /version:0.0: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /machine:x64: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /debug: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /INCREMENTAL: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /subsystem:console: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find kernel32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find user32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find gdi32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find winspool.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find shell32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find ole32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find oleaut32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find uuid.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find comdlg32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find advapi32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /MANIFEST: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /MANIFESTFILE:CMakeFiles\cmTC_fc003.dir/intermediate.manifest: Invalid argument
+CMakeFiles\cmTC_fc003.dir/manifest.res: file not recognized: File format not recognized
+NMAKE : fatal error U1077: “"C:\Program Files\CMake\bin\cmake.exe"”: 返回代码“0xffffffff”
+Stop.
+NMAKE : fatal error U1077: “"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29910\bin\Hostx64\x64\nmake.exe"”: 返回代码“0x2”
+Stop.
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/VC/Tools/MSVC/14.28.29910/bin/Hostx64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+2
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.28.29914 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.28.29914.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+LINK : fatal error LNK1104: 无法打开文件“LIBCMT.lib”
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/VC/Tools/MSVC/14.28.29910/bin/Hostx64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+2
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.28.29914 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 14.28.29914.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+LINK : fatal error LNK1104: 无法打开文件“LIBCMT.lib”
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/Users/Administrator/Desktop/libzmq-master/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_97f0a\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29910\bin\Hostx64\x64\nmake.exe"  -f CMakeFiles\cmTC_97f0a.dir\build.make /nologo -L                  CMakeFiles\cmTC_97f0a.dir\build
+Building C object CMakeFiles/cmTC_97f0a.dir/CMakeCCompilerABI.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_97f0a.dir\CMakeCCompilerABI.c.obj.d --working-dir=C:\Users\Administrator\Desktop\libzmq-master\CMakeFiles\CMakeTmp --filter-prefix="注意: 包含文件:  " -- C:\PROGRA~2\MICROS~3\2019\PROFES~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\nmE595.tmp
+CMakeCCompilerABI.c
+?鈷? 鍖呭惈鏂囦欢:  C:\Program Files\CMake\share\cmake-3.20\Modules\CMakeCompilerABI.h
+Linking C executable cmTC_97f0a.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_97f0a.dir --rc=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests -- C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe /nologo @CMakeFiles\cmTC_97f0a.dir\objects1.rsp @C:\Users\ADMINI~1\AppData\Local\Temp\nmE5E4.tmp
+LINK Pass 1: command "C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe /nologo @CMakeFiles\cmTC_97f0a.dir\objects1.rsp /out:cmTC_97f0a.exe /implib:cmTC_97f0a.lib /pdb:C:\Users\Administrator\Desktop\libzmq-master\CMakeFiles\CMakeTmp\cmTC_97f0a.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_97f0a.dir/intermediate.manifest CMakeFiles\cmTC_97f0a.dir/manifest.res" failed (exit code 1) with the following output:
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /nologo: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /out:cmTC_97f0a.exe: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /implib:cmTC_97f0a.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /pdb:C:\Users\Administrator\Desktop\libzmq-master\CMakeFiles\CMakeTmp\cmTC_97f0a.pdb: Invalid argument
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /version:0.0: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /machine:x64: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /debug: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /INCREMENTAL: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /subsystem:console: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find kernel32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find user32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find gdi32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find winspool.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find shell32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find ole32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find oleaut32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find uuid.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find comdlg32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find advapi32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /MANIFEST: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /MANIFESTFILE:CMakeFiles\cmTC_97f0a.dir/intermediate.manifest: Invalid argument
+CMakeFiles\cmTC_97f0a.dir/manifest.res: file not recognized: File format not recognized
+NMAKE : fatal error U1077: “"C:\Program Files\CMake\bin\cmake.exe"”: 返回代码“0xffffffff”
+Stop.
+NMAKE : fatal error U1077: “"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29910\bin\Hostx64\x64\nmake.exe"”: 返回代码“0x2”
+Stop.
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/Administrator/Desktop/libzmq-master/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_81a2f\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29910\bin\Hostx64\x64\nmake.exe"  -f CMakeFiles\cmTC_81a2f.dir\build.make /nologo -L                  CMakeFiles\cmTC_81a2f.dir\build
+Building C object CMakeFiles/cmTC_81a2f.dir/testCCompiler.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_81a2f.dir\testCCompiler.c.obj.d --working-dir=C:\Users\Administrator\Desktop\libzmq-master\CMakeFiles\CMakeTmp --filter-prefix="注意: 包含文件:  " -- C:\PROGRA~2\MICROS~3\2019\PROFES~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\nmE670.tmp
+testCCompiler.c
+Linking C executable cmTC_81a2f.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_81a2f.dir --rc=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests -- C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe /nologo @CMakeFiles\cmTC_81a2f.dir\objects1.rsp @C:\Users\ADMINI~1\AppData\Local\Temp\nmE6BF.tmp
+LINK Pass 1: command "C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe /nologo @CMakeFiles\cmTC_81a2f.dir\objects1.rsp /out:cmTC_81a2f.exe /implib:cmTC_81a2f.lib /pdb:C:\Users\Administrator\Desktop\libzmq-master\CMakeFiles\CMakeTmp\cmTC_81a2f.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_81a2f.dir/intermediate.manifest CMakeFiles\cmTC_81a2f.dir/manifest.res" failed (exit code 1) with the following output:
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /nologo: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /out:cmTC_81a2f.exe: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /implib:cmTC_81a2f.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /pdb:C:\Users\Administrator\Desktop\libzmq-master\CMakeFiles\CMakeTmp\cmTC_81a2f.pdb: Invalid argument
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /version:0.0: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /machine:x64: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /debug: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /INCREMENTAL: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /subsystem:console: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find kernel32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find user32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find gdi32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find winspool.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find shell32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find ole32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find oleaut32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find uuid.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find comdlg32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find advapi32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /MANIFEST: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /MANIFESTFILE:CMakeFiles\cmTC_81a2f.dir/intermediate.manifest: Invalid argument
+CMakeFiles\cmTC_81a2f.dir/manifest.res: file not recognized: File format not recognized
+NMAKE : fatal error U1077: “"C:\Program Files\CMake\bin\cmake.exe"”: 返回代码“0xffffffff”
+Stop.
+NMAKE : fatal error U1077: “"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29910\bin\Hostx64\x64\nmake.exe"”: 返回代码“0x2”
+Stop.
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/VC/Tools/MSVC/14.28.29910/bin/Hostx64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+2
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.28.29914 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.28.29914.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+LINK : fatal error LNK1104: 无法打开文件“LIBCMT.lib”
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/VC/Tools/MSVC/14.28.29910/bin/Hostx64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+2
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.28.29914 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 14.28.29914.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+LINK : fatal error LNK1104: 无法打开文件“LIBCMT.lib”
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/Users/Administrator/Desktop/libzmq-master/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_49198\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29910\bin\Hostx64\x64\nmake.exe"  -f CMakeFiles\cmTC_49198.dir\build.make /nologo -L                  CMakeFiles\cmTC_49198.dir\build
+Building C object CMakeFiles/cmTC_49198.dir/CMakeCCompilerABI.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_49198.dir\CMakeCCompilerABI.c.obj.d --working-dir=C:\Users\Administrator\Desktop\libzmq-master\CMakeFiles\CMakeTmp --filter-prefix="注意: 包含文件:  " -- C:\PROGRA~2\MICROS~3\2019\PROFES~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\nm694C.tmp
+CMakeCCompilerABI.c
+?鈷? 鍖呭惈鏂囦欢:  C:\Program Files\CMake\share\cmake-3.20\Modules\CMakeCompilerABI.h
+Linking C executable cmTC_49198.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_49198.dir --rc=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests -- C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe /nologo @CMakeFiles\cmTC_49198.dir\objects1.rsp @C:\Users\ADMINI~1\AppData\Local\Temp\nm699B.tmp
+LINK Pass 1: command "C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe /nologo @CMakeFiles\cmTC_49198.dir\objects1.rsp /out:cmTC_49198.exe /implib:cmTC_49198.lib /pdb:C:\Users\Administrator\Desktop\libzmq-master\CMakeFiles\CMakeTmp\cmTC_49198.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_49198.dir/intermediate.manifest CMakeFiles\cmTC_49198.dir/manifest.res" failed (exit code 1) with the following output:
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /nologo: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /out:cmTC_49198.exe: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /implib:cmTC_49198.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /pdb:C:\Users\Administrator\Desktop\libzmq-master\CMakeFiles\CMakeTmp\cmTC_49198.pdb: Invalid argument
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /version:0.0: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /machine:x64: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /debug: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /INCREMENTAL: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /subsystem:console: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find kernel32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find user32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find gdi32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find winspool.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find shell32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find ole32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find oleaut32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find uuid.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find comdlg32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find advapi32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /MANIFEST: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /MANIFESTFILE:CMakeFiles\cmTC_49198.dir/intermediate.manifest: Invalid argument
+CMakeFiles\cmTC_49198.dir/manifest.res: file not recognized: File format not recognized
+NMAKE : fatal error U1077: “"C:\Program Files\CMake\bin\cmake.exe"”: 返回代码“0xffffffff”
+Stop.
+NMAKE : fatal error U1077: “"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29910\bin\Hostx64\x64\nmake.exe"”: 返回代码“0x2”
+Stop.
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/Administrator/Desktop/libzmq-master/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_25b92\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29910\bin\Hostx64\x64\nmake.exe"  -f CMakeFiles\cmTC_25b92.dir\build.make /nologo -L                  CMakeFiles\cmTC_25b92.dir\build
+Building C object CMakeFiles/cmTC_25b92.dir/testCCompiler.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_25b92.dir\testCCompiler.c.obj.d --working-dir=C:\Users\Administrator\Desktop\libzmq-master\CMakeFiles\CMakeTmp --filter-prefix="注意: 包含文件:  " -- C:\PROGRA~2\MICROS~3\2019\PROFES~1\VC\Tools\MSVC\1428~1.299\bin\Hostx64\x64\cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\nm6A27.tmp
+testCCompiler.c
+Linking C executable cmTC_25b92.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_25b92.dir --rc=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\rc.exe --mt=C:\PROGRA~2\WINDOW~1\10\bin\100190~1.0\x64\mt.exe --manifests -- C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe /nologo @CMakeFiles\cmTC_25b92.dir\objects1.rsp @C:\Users\ADMINI~1\AppData\Local\Temp\nm6A66.tmp
+LINK Pass 1: command "C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe /nologo @CMakeFiles\cmTC_25b92.dir\objects1.rsp /out:cmTC_25b92.exe /implib:cmTC_25b92.lib /pdb:C:\Users\Administrator\Desktop\libzmq-master\CMakeFiles\CMakeTmp\cmTC_25b92.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_25b92.dir/intermediate.manifest CMakeFiles\cmTC_25b92.dir/manifest.res" failed (exit code 1) with the following output:
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /nologo: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /out:cmTC_25b92.exe: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /implib:cmTC_25b92.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /pdb:C:\Users\Administrator\Desktop\libzmq-master\CMakeFiles\CMakeTmp\cmTC_25b92.pdb: Invalid argument
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /version:0.0: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /machine:x64: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /debug: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /INCREMENTAL: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /subsystem:console: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find kernel32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find user32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find gdi32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find winspool.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find shell32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find ole32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find oleaut32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find uuid.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find comdlg32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find advapi32.lib: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /MANIFEST: No such file or directory
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ld.exe: cannot find /MANIFESTFILE:CMakeFiles\cmTC_25b92.dir/intermediate.manifest: Invalid argument
+CMakeFiles\cmTC_25b92.dir/manifest.res: file not recognized: File format not recognized
+NMAKE : fatal error U1077: “"C:\Program Files\CMake\bin\cmake.exe"”: 返回代码“0xffffffff”
+Stop.
+NMAKE : fatal error U1077: “"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29910\bin\Hostx64\x64\nmake.exe"”: 返回代码“0x2”
+Stop.
+
+
+
